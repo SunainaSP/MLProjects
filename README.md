@@ -1,2 +1,2 @@
 # MLProjects
-Insta-like Filters using Python
+Basic Python Programs for Image Processing
